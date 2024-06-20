@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://razybush.github.io/sitemap
+Sitemap: https://razybush.github.io/app/sitemap
+Sitemap: https://razybush.github.io/assets/sitemap
+Sitemap: https://razybush.github.io/css/sitemap
+Sitemap: https://razybush.github.io/includes/sitemap
+Sitemap: https://razybush.github.io/item/sitemap
+Sitemap: https://razybush.github.io/src/sitemap
